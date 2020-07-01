@@ -4,7 +4,7 @@
 * Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content      within your app. 
 * Android Jetpack's Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer. 
 * The Navigation component also ensures a consistent and predictable user experience by adhering to an established
-## What is a navigation Component ?
+### What is a navigation Component ?
 **“ A Navigation component is a collection of libraries ,a plugin and tooling for unifying and simplifying android navigation ”**
 ### Navigation Component Benefits
 * Simplified setup for common navigation pattern
@@ -30,7 +30,7 @@
  * **NavController(fragment):** An object that manages app navigation within a NavHost.   The NavController orchestrates the swapping of destination content in the NavHost as users move throughout your app
 
   
- ## Let we go for Practical simple and easy example
+ ### Let we go for Practical simple and easy example
   <img src="https://github.com/Muneiahtellakula/kotlin-ref/blob/master/MyNavComponentDemo/nav.gif" width="250" height="350" />
   
  ### Get Started with the Navigation Component
@@ -359,7 +359,7 @@ class HomeFragment : Fragment() {
 }
 ```
 
-## For Java Home_Fragment.java file
+### For Java Home_Fragment.java file
 ``` java
 
 import android.os.Bundle;
